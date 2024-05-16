@@ -1,6 +1,8 @@
 # Arduino Sensor Monitoring App
 
 This app provides a user-friendly interface for monitoring sensor data collected by Arduino-based IoT devices. Whether you're tracking temperature, humidity, light intensity, or any other environmental parameter, this app simplifies the process of visualizing and analyzing real-time sensor readings.
+<br>
+Teamwork: Luka Šćulac, Jan Šubarić
 
 ## Key Features:
 + **Real-time Data Visualization**: View sensor data in real-time through intuitive charts and graphs.
